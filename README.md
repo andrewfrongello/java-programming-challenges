@@ -1,0 +1,3 @@
+- A collection of Java coding challenges assigned for COP2800.
+- Respective program descriptions are included in each file.
+- These programs focus on the use of fundamental Java classes and secure programming technieques such as [input validation](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
